@@ -1,0 +1,10 @@
+C:\Users\Kenjie\source\repos\imgP\imgP\bin\Debug\imgP.exe.config
+C:\Users\Kenjie\source\repos\imgP\imgP\bin\Debug\imgP.exe
+C:\Users\Kenjie\source\repos\imgP\imgP\bin\Debug\imgP.pdb
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.csproj.AssemblyReference.cache
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.Form1.resources
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.Properties.Resources.resources
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.csproj.GenerateResource.cache
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.csproj.CoreCompileInputs.cache
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.exe
+C:\Users\Kenjie\source\repos\imgP\imgP\obj\Debug\imgP.pdb
